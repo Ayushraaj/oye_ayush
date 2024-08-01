@@ -115,7 +115,7 @@ export const experiences = [
         company_name: "Quantum Annealing",
         icon: blue,
         iconBg: "#accbe1",
-        date: "January 2023 - June 2024",
+        date: "January 2024 - March 2024",
         points: [
             "Comparison Results: Quantum Annealing outperforms PCA in dimensionality reduction for predictive models, yielding lower Mean Squared Error and higher R-squared values.",
             "Performance Insight: Quantum Annealing's superior ability to identify data patterns enhances model performance.",
@@ -128,7 +128,7 @@ export const experiences = [
         company_name: "Optimizing Algorithms for Car Racing Time Laps",
         icon: red,
         iconBg: "#fbc3bc",
-        date: "Jan 2024 - July 2025",
+        date: "April 2024 - July 2024",
         points: [
             "Advancements in AI and RL: Over the past decade AI advancements particularly in reinforcement learning have made training RL agents for custom 2D games more accessible due to improved algorithms and hardware.",
             "A2C Model Performance: The A2C model in this study achieved the desired performance in just 1.75 million timesteps highlighting the efficiency of modern RL methods compared to traditional finite state machines in game development.",
